@@ -5,7 +5,11 @@
 > This section contains all the general info about designing a hand prothesis
 
 #### Websites
-https://inmoov.fr/hand-i2/
+https://inmoov.fr/hand-i2/ : projet open source avec tous les fichiers STL, la liste des composants à commander pour le projet, etc.
+
+#### Research papers
+
+
 
 
 
